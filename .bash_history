@@ -39,3 +39,15 @@ git push -u origin local branch
 git push -u origin local-branch
 git push -u origin main
 git push -u origin master
+ll
+ls -al
+ll
+git remote add origin https://github.com/naveenbathula7/devops.git
+git branch
+git push -u origin master
+naveenbathula7
+git push -u origin master
+naveenbathula7
+clear
+git push -u orgin master
+git push -u origin master
